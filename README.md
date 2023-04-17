@@ -1,2 +1,1 @@
-# jogo-do-trex
-jogo byjus
+# Trex-Etapa-0.5
